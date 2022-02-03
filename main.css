@@ -1,0 +1,48 @@
+.submissionBox {
+      border: 1.5px;
+      border-color: black;
+      background-color: lightgray;
+      color: black;
+      margin: 5px
+      }
+.titleBox{
+      width: 30%;
+      margin: 5px
+}
+.bodyBox{
+      width: 45%;
+      height: 55px;
+      margin: 5px
+}
+.userIdBox{
+      width: 10%;
+      margin-bottom: 1px;
+}
+
+.postEntry{
+      background-color: cornflowerblue;
+      color: black;
+      border: blueviolet;
+      border-width: 2px ;
+}
+
+.submissionPost {
+      border: 1.5px;
+      border-color: black;
+      background-color: lightgray;
+      color: black;
+      margin: 5px
+      }
+.titlePost{
+      
+      margin: 5px
+}
+.bodyPost{
+      height: fit-content;
+      margin: 5px;
+      margin-bottom: 2px;
+}
+.userIdPost{
+      
+      margin-bottom: 1px;
+}
